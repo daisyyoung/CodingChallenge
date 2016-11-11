@@ -1,0 +1,1 @@
+We need two input files: batch_payment.txt and stream_payment.txt
